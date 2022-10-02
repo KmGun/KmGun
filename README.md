@@ -1,7 +1,9 @@
-### Hi there 👋
+# For Just Fun.
+
+![KmGun's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KmGun&langs_count=8)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KmGun&show_icons=true&theme=radical)
-![KmGun's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KmGun&langs_count=8)
+
 <!--
 **KmGun/KmGun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
