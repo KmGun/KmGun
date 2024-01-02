@@ -1,4 +1,4 @@
-# For Just Fun.
+# FROG 🐸
 
 ![KmGun's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KmGun&langs_count=8)
 
